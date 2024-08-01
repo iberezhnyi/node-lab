@@ -6,12 +6,6 @@
     "phone": "(992) 914-3792"
   },
   {
-    "id": "qdggE76Jtbfd9eWJHrssH",
-    "name": "Chaim Lewis",
-    "email": "dui.in@egetlacus.ca",
-    "phone": "(294) 840-6685"
-  },
-  {
     "id": "drsAJ4SHPYqZeG-83QTVW",
     "name": "Kennedy Lane",
     "email": "mattis.Cras@nonenimMauris.net",
@@ -58,5 +52,11 @@
     "name": "Mango1",
     "email": "mango1@mail.com",
     "phone": "+13749583628495"
+  },
+  {
+    "id": "09d8c169-debe-4e87-8c59-53e5de66e4f1",
+    "name": "Mango",
+    "email": "mango@gmail.com",
+    "phone": "322-22-22"
   }
 ]
